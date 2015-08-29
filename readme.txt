@@ -1,0 +1,1 @@
+This is sample app to practice git commands.
